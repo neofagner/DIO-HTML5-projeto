@@ -1,2 +1,2 @@
 # DIO-HTML5-projeto
- Projeto de HMTL5 da DIO
+ Projeto de HTML5 da DIO
